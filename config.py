@@ -1,7 +1,7 @@
 import logging
 import os
 from distutils.util import strtobool
-from config.env import load_dotenv
+from dotenv import load_dotenv
 from logging.handlers import RotatingFileHandler
 
 load_dotenv("config.env")
